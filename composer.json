@@ -1,0 +1,14 @@
+{
+    "name": "jota/aplicacion",
+    "description": "API Prueba Woocommerce",
+    "license": "MTI",
+    "authors": [
+        {
+            "name": "Jose Jollja",
+            "email": "josejollja@unmsm.edu.pe"
+        }
+    ],
+    "require": {
+        "automattic/woocommerce": "^3.0"
+    }
+}
